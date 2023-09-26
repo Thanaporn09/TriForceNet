@@ -48,4 +48,3 @@
       # For evaluation of the Head XCAT dataset, use:
       --eval 'MRE_h','MRE_std_h','SDR_2_h','SDR_2.5_h','SDR_3_h','SDR_4_h'
   ```
-# TriForceNet
